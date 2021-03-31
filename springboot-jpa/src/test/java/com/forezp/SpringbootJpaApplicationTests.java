@@ -11,6 +11,7 @@ public class SpringbootJpaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+                 system.out.println("大哥 你好")
 	}
 
 }
