@@ -10,7 +10,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class SpringbootJpaApplicationTests {
 
 	@Test
-	public void contextLoadssss() {
+	public void contextLoads() {
+                 system.out.println("大哥 你好")
+ system.out.println("大哥 你好")
+ system.out.println("大哥 你好")
+ system.out.println("大哥 你好")
 	}
 
 }
